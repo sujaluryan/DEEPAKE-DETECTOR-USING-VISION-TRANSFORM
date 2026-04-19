@@ -14,3 +14,4 @@ This project uses Vision Transformer (ViT) to detect deepfake videos with high a
 ```bash
 pip install -r requirements.txt
 python run_app.py
+Get the model from this drive link: https://drive.google.com/drive/folders/1za-qNXwacULhIHvQ3N5YBllK96OfWQef?usp=drive_link
